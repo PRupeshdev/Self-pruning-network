@@ -80,7 +80,7 @@ A moderate value of λ provides the best balance, achieving significant pruning 
 
 The following plot shows the distribution of gate values for different λ values:
 
-![Gate Distribution](combined_gate_distribution.png)
+![Gate Distribution](Gate_Distributions.png)
 
 ###  Interpretation
 
